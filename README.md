@@ -1048,8 +1048,3 @@ Sequence:
 
 ---
 
-**Document Length: 18,200 words**  
-**Financial Projections: 10-year investment horizon, $90–150M total capital**  
-**Market Opportunity: $3.9–10.7B addressable market, $500M–$1.5B realistic capture annually**  
-**Timeline: Immediate launch recommended, market window 2024–2027**
-
